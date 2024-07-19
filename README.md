@@ -13,7 +13,7 @@ Proposed change: **Remove Ship Mode (First-class)**
 ![image](https://github.com/user-attachments/assets/69ff0a1f-a039-4502-8ac9-c5f37b81f949)
 According to the map shown above, the areas coloured in green are shown to be profitable. Namely, market segments such as Canada, Africa, EMEA (Representing the Middle East, Central Asia, and Russia), are areas without data of product returns. However, there are some exceptions that where the profit ratio are close to zero or even negative.
 
-On the other hand, the majority of areas in the US, LATAM (Latin America), Europe, & APAC, have a profit ratio close to zero, with some exceptions that are in the negatives or above 0.2.
+On the other hand, the majority of areas in the US, LATAM (Latin America), EU, & APAC, have a profit ratio close to zero, with some exceptions that are in the negatives or above 0.2.
 
 ![image](https://github.com/user-attachments/assets/c07331a8-1efb-495d-881f-bd9fcf275c9b)
 All the top 10 countries, in terms of profitability have a profit ratio close to zero.
