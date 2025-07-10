@@ -1,4 +1,5 @@
 # This project explores of Tableau Global Superstore Dataset and key insights derived.
+View the dashboard on Tableau Public: https://public.tableau.com/views/GlobalSuperstoreVisuals_17521321423280/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Findings: Redundant shipping mode & product returns are eating into the company's profits
 **1. Redundant shipping mode**
